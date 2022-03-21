@@ -1,0 +1,23 @@
+body {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #f3f4f5;
+}
+
+#project {
+  background-color: #f3f4f5;
+}
+
+.footer {
+  background-color: grey;
+}
+#blog {
+  background-color: #f3f4f5;
+  padding-top: 12rem;
+}
+section {
+  padding-top: 5rem;
+}
